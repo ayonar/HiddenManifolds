@@ -9,7 +9,7 @@ from general_file_fns import save_pickle_file
 
 param_dict = {}
 # Some commonly used paths
-base_dir = '/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/'
+base_dir = '/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/HiddenManifolds/'
 # Location where Peyrache et al data is unzipped
 param_dict['raw_data_dir'] = base_dir + 'rawdata/'
 

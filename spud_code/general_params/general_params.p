@@ -1,11 +1,11 @@
 (dp0
 S'results_dir'
 p1
-S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/analyses/'
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/HiddenManifolds/analyses/'
 p2
 sS'processed_data_dir'
 p3
-S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/processed/'
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/HiddenManifolds/processed/'
 p4
 sS'cols'
 p5
@@ -42,10 +42,10 @@ F0.0784
 tp16
 ssS'raw_data_dir'
 p17
-S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/rawdata/'
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/HiddenManifolds/rawdata/'
 p18
 sS'kernel_rates_dir'
 p19
-S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/analyses/2020_01_kernel_rates/'
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/HiddenManifolds/analyses/2020_01_kernel_rates/'
 p20
 s.
