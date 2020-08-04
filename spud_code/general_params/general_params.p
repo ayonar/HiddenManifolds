@@ -1,0 +1,51 @@
+(dp0
+S'results_dir'
+p1
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/analyses/'
+p2
+sS'processed_data_dir'
+p3
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/processed/'
+p4
+sS'cols'
+p5
+(dp6
+S'measured'
+p7
+(F0.3
+F0.3
+F0.3
+tp8
+sS'SWS'
+p9
+(F0.824
+F0.627
+F0.0392
+tp10
+sS'Wake'
+p11
+(F0.0118
+F0.235
+F0.392
+tp12
+sS'fit'
+p13
+(F0.49
+F0.961
+F0.961
+tp14
+sS'REM'
+p15
+(F0.392
+F0.549
+F0.0784
+tp16
+ssS'raw_data_dir'
+p17
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/rawdata/'
+p18
+sS'kernel_rates_dir'
+p19
+S'/Users/yonar/Google Drive File Stream/My Drive/RamanathanLab/FieteLab/analyses/2020_01_kernel_rates/'
+p20
+s.
